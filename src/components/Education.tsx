@@ -22,16 +22,16 @@ const Education = () => {
     },
     {
       degree: 'Intermediate (Class XII)',
-      institution: 'Kendriya Vidyalaya No.1',
-      location: 'Dehradun, Uttarakhand',
+      institution: 'Vidya Sanskar School',
+      location: 'Patna, Bihar',
       period: '2020 - 2022',
       description: 'Completed 12th standard with PCM (Physics, Chemistry, Mathematics) stream. Developed strong foundation in mathematics and logical reasoning.',
       gpa: '85%'
     },
     {
       degree: 'Matriculation (Class X)',
-      institution: 'Kendriya Vidyalaya No.1',
-      location: 'Dehradun, Uttarakhand',
+      institution: 'Vidya Sanskar school',
+      location: 'Patna, Bihar',
       period: '2019 - 2020',
       description: 'Completed 10th standard with distinction. Developed fundamental knowledge in science, mathematics, and computer applications.',
       gpa: '92%'
