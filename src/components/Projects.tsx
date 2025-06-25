@@ -36,11 +36,11 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: "Empire Trading Academy",
+      title: "Hacks For You PVT. LTD.",
       description: "A comprehensive website for a trading academy offering courses and educational resources.",
       image: "/Photos/Hacks4u.png",
       technologies: ["React", "Node.js", "MongoDB", "Express"],
-      githubLink: "https://github.com/Abhishek7321",
+      githubLink: "https://github.com/Abhisek7321",
       liveLink: "https://hacks4u.in",
       category: "web"
     }
